@@ -113,11 +113,11 @@ streamlit run app.py
 
 ## 📈 Features
 
-✅ Real-time Q\&A over your resume + JD
-✅ Gemini-powered smart answers
-✅ File upload + PDF parsing
-✅ Highlights skills gap and alignment
-✅ Can be deployed publicly (Streamlit Cloud)
+* ✅ Real-time Q\&A over your resume + JD
+* ✅ Gemini-powered smart answers
+* ✅ File upload + PDF parsing
+* ✅ Highlights skills gap and alignment
+* ✅ Can be deployed publicly (Streamlit Cloud)
 
 ---
 
