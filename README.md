@@ -128,16 +128,21 @@ streamlit run app.py
 | ![App Screenshot](screenshots/app.png) | *“You are missing key requirements like SQL and DevOps. However, your ML experience is a strong match…”* |
 
 ---
+## 📝Input Example
+"score the resume out of 100 on the basis of jd"
 
 ## 📝 Output Example
 
-> **Score:** 78
+> **Score:** 99
 > **Explanation:**
->
-> * Strong match on ML, Python, team projects
-> * Missing some cloud skills
->
-> **Result:** Under Review
+>Based on the provided job description and Farah Martin's resume, here's a scoring breakdown:
+
+Scoring Criteria:
+
+Education (15 points): The JD prefers a Master's degree, but a Bachelor's is sufficient. Farah has a Bachelor's. We'll give her 10/15 points here as she meets the minimum requirement, but doesn't exceed it.
+
+Experience (30 points): .... 
+Farah's resume is extremely strong and aligns well with the job description. The slight deductions reflect areas where more explicit detail could further strengthen her application.
 
 ---
 
