@@ -123,7 +123,7 @@ streamlit run app.py
 
 ## 🖼️ App Preview
 
-| Upload & Question                      | Gemini Response                                                                                          |
+| Upload & Question                      | Gemini Sample Response                                                                                          |
 | -------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | ![App Screenshot](screenshots/app.png) | *“You are missing key requirements like SQL and DevOps. However, your ML experience is a strong match…”* |
 
