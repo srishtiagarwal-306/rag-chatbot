@@ -148,11 +148,11 @@ Farah's resume is extremely strong and aligns well with the job description. The
 
 ## 🚀 Future Enhancements
 
-✅ Add PDF report generation
-✅ Add score breakdown + visualization
-✅ Support for multiple resumes or jobs
-🔍 Add LLM comparison (Gemini vs Claude)
-📁 Export answers to .txt/.csv
+> ✅ Add PDF report generation
+> ✅ Add score breakdown + visualization
+> ✅ Support for multiple resumes or jobs
+> 🔍 Add LLM comparison (Gemini vs Claude)
+> 📁 Export answers to .txt/.csv
 
 ---
 
