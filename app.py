@@ -3,6 +3,11 @@ import tempfile
 from embed import build_faiss_index
 from rag_chat import RAGChatBot
 #GEMINI API KEY = AIzaSyAXn9P1lH9AoLjLs8-q5H8oOnjtKb_tTpg
+import streamlit as st
+import tempfile
+from embed import build_faiss_index
+from rag_chat import RAGChatBot 
+
 st.set_page_config(page_title="📄 Resume-JD RAG Chatbot", layout="centered")
 
 st.title("📄 Resume + JD Chatbot using RAG")
@@ -50,8 +55,5 @@ if api_key and uploaded_resume and uploaded_jd:
         st.markdown("### 🤖 Answer:")
         st.write(answer)
 else:
-    st.info("Please upload both PDFs and enter your Gemini API key to begin.")
+    st.info("📂 Please upload both PDFs to begin.")
 
-
-else:
-    st.info("Please upload both PDFs and enter your Gemini API key to begin.")
