@@ -1,7 +1,7 @@
 import streamlit as st
 import tempfile
 from embed import build_faiss_index
-from rag_chat import RAGChat
+from rag_chat import RAGChatBot
 #GEMINI API KEY = AIzaSyAXn9P1lH9AoLjLs8-q5H8oOnjtKb_tTpg
 st.set_page_config(page_title="📄 Resume-JD RAG Chatbot", layout="centered")
 
